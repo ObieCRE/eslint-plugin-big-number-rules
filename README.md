@@ -1,3 +1,5 @@
+Note: This has been forked from https://github.com/shuckster/eslint-plugin-big-number-rules. It disables all checks except for multiplication and division to reduce false positives.
+
 <h1 align="center">eslint-plugin-<code>big-number-rules</code> 🔢</h1>
 
 <p align="center">
