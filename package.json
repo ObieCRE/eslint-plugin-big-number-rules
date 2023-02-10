@@ -1,6 +1,6 @@
 {
   "name": "@obierisk/eslint-plugin-big-number-rules",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "description": "Enforce finance-safe calculations using BigNumber instead of native JavaScript arithmetic and Math functions.",
   "author": "obierisk",
   "license": "MIT",
