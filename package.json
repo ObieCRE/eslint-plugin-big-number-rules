@@ -2,7 +2,7 @@
   "name": "@obierisk/eslint-plugin-big-number-rules",
   "version": "1.9.1",
   "description": "Enforce finance-safe calculations using BigNumber instead of native JavaScript arithmetic and Math functions.",
-  "author": "Conan Theobald",
+  "author": "obierisk",
   "license": "MIT",
   "keywords": [
     "big number",
@@ -19,7 +19,7 @@
   },
   "bugs": {
     "url": "https://github.com/ObieCRE/eslint-plugin-big-number-rules/issues",
-    "email": "bugs+big-number-rules@conans.co.uk"
+    "email": "engineering@obierisk.om"
   },
   "engines": {
     "node": ">=10"
