@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-big-number-rules",
+  "name": "@obierisk/eslint-plugin-big-number-rules",
   "version": "1.9.1",
   "description": "Enforce finance-safe calculations using BigNumber instead of native JavaScript arithmetic and Math functions.",
   "author": "Conan Theobald",
@@ -12,13 +12,13 @@
     "finance safe",
     "currency safe"
   ],
-  "homepage": "https://github.com/shuckster/eslint-plugin-big-number-rules",
+  "homepage": "https://github.com/ObieCRE/eslint-plugin-big-number-rules",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shuckster/eslint-plugin-big-number-rules"
+    "url": "git+https://github.com/ObieCRE/eslint-plugin-big-number-rules.git"
   },
   "bugs": {
-    "url": "https://github.com/shuckster/eslint-plugin-big-number-rules/issues",
+    "url": "https://github.com/ObieCRE/eslint-plugin-big-number-rules/issues",
     "email": "bugs+big-number-rules@conans.co.uk"
   },
   "engines": {
@@ -47,5 +47,9 @@
     "glob": "^8.0.3",
     "load-perf": "^0.2.0",
     "nodemon": "^2.0.16"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
   }
 }
